@@ -2,6 +2,8 @@
 
 ![Screenshot](Screenshot.png)
 
+This plugin is designed to work with jayofelony Pwnagotchi 2.9.5.4
+
 Copy expv3.py to /usr/local/share/pwnagotchi/custom-plugins/
 
 Add the following to your /etc/pwngtochi/config.toml
