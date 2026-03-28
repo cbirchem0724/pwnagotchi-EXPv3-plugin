@@ -17,3 +17,10 @@ exp_x_coord = 43
 exp_y_coord = 81
 bar_symbols_count = 10
 ```
+
+Check out my other plugins
+- Pwnagotchi-Nomagotchi-Food-Plugin
+- Pwnagotchi-TrashTalk-Custom-Phrases-Plugin
+- Pwnagotchi-EXPv3-Plugin
+- Pwnagotchi-WebSSH-Plugin
+https://github.com/FourEightZer0
